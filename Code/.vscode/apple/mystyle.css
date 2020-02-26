@@ -1,0 +1,14 @@
+body {
+    background: rgb(251, 0, 176);
+}
+#listofthings{
+    font-family: fantasy;
+    border:ridge ;
+    border-radius: 100px;
+}
+h1{
+    font-size: xx-large;
+    font-family: fantasy;
+    color: rgb(127, 255, 212);
+    font-style: italic;
+}
