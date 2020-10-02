@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+  }
+
+  div {
+    width: auto;
+    border: 10px ;
+    border-radius: 25px;
+    line-height: 1.8;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  #contents-table {
+    border-width: 5px;
+  }
+  #toc {
+    background-color: yellowgreen;
+  }
+  #introduction {
+    background-color:brown;
+  }
+  #facts-time {
+      background-color:green;
+  }
+  #inventors {
+      background-color:orchid;
+  }
+  #story {
+    background-color:lightcoral;
+  }
+  #codingtime {
+      background-color:lightgreen;
+  }
+  #games {
+    background-color:forestgreen;
+  }
+  #rhymingwords {
+    background-color:lavender;
+  }
+  #aboutme {
+    background-color: lime;
+  }
+  
