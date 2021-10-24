@@ -1,5 +1,10 @@
+import java.util.Scanner;
 fun main(){
-    var marks:Int=67
+   
+    print("Enter an integer:")
+    val marks = Integer.valueOf(readLine())
+    println("You entered: $marks")
+    
     if(marks <=100 && marks >=90){
         println("A* excellent!!")
     }
@@ -26,7 +31,8 @@ fun main(){
     else if(marks <=29 && marks >=20){
         println("G you are practising very less!you should practise a lot.")
     }
-    else if(marks <=19 && marks >=10){
+    else if(marks <=19 && marks >=0){
         println("W loser practise a lot.")
     }
+    
 }
